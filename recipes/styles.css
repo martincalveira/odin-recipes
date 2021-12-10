@@ -1,0 +1,13 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #cbdbdf;
+  background-color: #90b3bc;
+}
+
+.align-left {
+  text-align: left;
+}
+
+.align-center {
+  text-align: center;
+}
